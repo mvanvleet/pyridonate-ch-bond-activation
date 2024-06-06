@@ -1,0 +1,3 @@
+This directory contains relaxed scan runs for all compounds studied. For
+computational convenience and numerical stability, relaxed scans were
+sometimes split into two job files.
