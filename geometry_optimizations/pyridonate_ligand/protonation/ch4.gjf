@@ -1,0 +1,14 @@
+%nprocshared=8
+%chk=ch4.chk
+%mem=1GB
+# wb97xd def2TZVPP SCRF=(solvent=dichloromethane) opt freq
+
+ch4
+
+0 1
+C          0.00000        0.00000        0.00000
+H          0.63413        0.63413        0.63413
+H         -0.63413       -0.63413        0.63413
+H         -0.63413        0.63413       -0.63413
+H          0.63413       -0.63413       -0.63413
+
