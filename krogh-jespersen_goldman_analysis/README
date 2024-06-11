@@ -1,0 +1,8 @@
+Note: Input files for select systems (1-F, 2-F) given in this section that do
+not appear in the main text. These systems were run for benchmarking purposes
+to reproduce the literature results.
+
+Also note: The original Goldman paper used an older version of Gaussian and
+NBO5 (rather than NBO7). However, we're able to reproduce their sigma and pi
+values to within ~0.005 of the original numbers, so it is unlikely that
+version differences significantly affect the conclusions.
