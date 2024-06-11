@@ -18,11 +18,22 @@ addition complex between methane and a protonated pyridonate platinum complex.
 For convenience, file names for compounds explicitly in the main text are
 given in the table below.
 
-| File (.gjf)  | Compound # | Description |
+| File (.gjf)  | Compound # | Comment     |
 |--------------|------------|-------------|
 | ZPtMe        |  2'        |             |
 | YPtMe        |  3'        |             |
 | ZPtMeH       |  4'        |             |
+| YPtMeH       |  5'        |             |
+| MeZPtMe      |  7'        |             |
+| MeZPt        |  8'        | No counterion computed    |
+| HZPtMe       |  9'        |             |
+| HZPt         |  10'       | No counterion computed    |
+| ZPtMeH\_sigma |  11'       |             |
+| MeZPtMeMe    |  12'       |             |
+| MeZPt        |  13'       |             |
+| HZPtMeH      |  14'       |             |
+| HZPtMeH\_sigma |  15'       |             |
+| HZPt         |  16'       |             |
 
 
 Any questions or requests for information about the data can be sent to mary.vanvleet (at) spelman.edu
