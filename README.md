@@ -25,15 +25,15 @@ given in the table below.
 | ZPtMeH       |  4'        |             |
 | YPtMeH       |  5'        |             |
 | MeZPtMe      |  7'        |             |
-| MeZPt        |  8'        | No counterion computed    |
+| MeZPt        |  8'        | Bare metal; no counterion    |
 | HZPtMe       |  9'        |             |
-| HZPt         |  10'       | No counterion computed    |
+| HZPt         |  10'       | Bare metal; no counterion     |
 | ZPtMeH\_sigma |  11'       |             |
 | MeZPtMeMe    |  12'       |             |
-| MeZPt        |  13'       |             |
+| MeZPt        |  13'       |  Bare metal; no counterion            |
 | HZPtMeH      |  14'       |             |
 | HZPtMeH\_sigma |  15'       |             |
-| HZPt         |  16'       |             |
+| HZPt         |  16'       |  Bare metal; no counterion            |
 
 
 Any questions or requests for information about the data can be sent to mary.vanvleet (at) spelman.edu
