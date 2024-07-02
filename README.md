@@ -15,7 +15,7 @@ other ligands (L) directly attached to the metal are listed after the metal
 name. Thus, for example, HZPtMeH.gjf would correspond to the oxidative
 addition complex between methane and a protonated pyridonate platinum complex.
 
-For convenience, file names for compounds explicitly in the main text are
+For convenience, file names for compounds explicitly discussed in the main text are
 given in the table below.
 
 | File (.gjf)  | Compound # | Comment     |
@@ -37,6 +37,11 @@ given in the table below.
 | HZIrMe       |  (NN<sup>OH</sup>N)IrMe       |            |
 | YIr       |  17'Ir       |  Bare metal; no counterion |
 | YIrMeH       |  17'Ir(CH3)(H)       |          |
+| ZRh       |  18'Rh       |  Bare metal; no counterion |
+| ZRhMeH       |  18'Rh(CH3)(H)       |          |
+| HZRhMe       |  (NN<sup>OH</sup>N)RhMe       |            |
+| YRh       |  17'Rh       |  Bare metal; no counterion |
+| YRhMeH       |  17'Rh(CH3)(H)       |          |
 
 
 
