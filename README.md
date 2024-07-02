@@ -32,6 +32,12 @@ given in the table below.
 | HZPtMeH      |  14'       |             |
 | HZPtMeH\_sigma |  15'       |             |
 | HZPt         |  16'       |  Bare metal; no counterion            |
+| ZIr       |  18'Ir       |  Bare metal; no counterion |
+| ZIrMeH       |  18'Ir(CH3)(H)       |          |
+| HZIrMe       |  (NN<sup>OH</sup>N)IrMe       |            |
+| YIr       |  17'Ir       |  Bare metal; no counterion |
+| YIrMeH       |  17'Ir(CH3)(H)       |          |
+
 
 
 Any questions or requests for information about the data can be sent to mary.vanvleet (at) spelman.edu
