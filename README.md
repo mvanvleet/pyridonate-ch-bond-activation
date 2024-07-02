@@ -21,7 +21,6 @@ given in the table below.
 | File (.gjf)  | Compound # | Comment     |
 |--------------|------------|-------------|
 | ZPtMe        |  2'        |             |
-| YPtMe        |  3'        |             |
 | ZPtMeH (TS_ZPtMeH_ZPtMeHsigma.xyz)      |  4'        |  Unlike the Ir and Rh analogs, this structure is a TS rather than a GS           |
 | YPtMeH       |  5'        |             |
 | MeZPtMe      |  7'        |             |
