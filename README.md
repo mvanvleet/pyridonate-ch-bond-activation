@@ -22,7 +22,6 @@ given in the table below.
 |--------------|------------|-------------|
 | ZPtMe        |  2'        |             |
 | ZPtMeH (TS_ZPtMeH_ZPtMeHsigma.xyz)      |  4'        |  Unlike the Ir and Rh analogs, this structure is a TS rather than a GS           |
-| YPtMeH       |  5'        |             |
 | MeZPtMe      |  7'        |             |
 | MeZPt        |  8'        | Bare metal; no counterion    |
 | HZPtMe       |  9'        |             |
