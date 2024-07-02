@@ -21,7 +21,7 @@ given in the table below.
 | File (.gjf)  | Compound # | Comment     |
 |--------------|------------|-------------|
 | ZPtMe        |  2'        |             |
-| ZPtMeH (TS_ZPtMeH_ZPtMeHsigma.xyz)      |  4'        |  Unlike the Ir and Rh analogs, this structure is a TS rather than a GS           |
+| ZPtMeH (TS_ZPtMeH_ZPtMeHsigma.xyz)      |  4'        |  For ZPt, OA complex corresponds to a transition state rather than a ground state structure         |
 | MeZPtMe      |  7'        |             |
 | MeZPt        |  8'        | Bare metal; no counterion    |
 | HZPtMe       |  9'        |             |
