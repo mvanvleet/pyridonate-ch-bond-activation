@@ -7,13 +7,16 @@ The repository contains:
 * .xyz files corresponding to all optimized structures at the wB97X-D/def2-TZVPP level of theory
 * A summary Excel spreadsheet containing energies and free energies for various calculated species, along with the associated energy and free energy barriers for the various transitions states (TS) described in the manuscript
 
-The naming scheme for Gaussian files is outlined in the Excel spreadsheet. In
-brief, file names for geometry optimizations are of the form PML1[L2], where P
-represents the pincer ligand (Y=classic NCN pincer, Z=pyridonate ligand,
-HZ=protonated pyridonate ligand), M represents the metal (M=Pt, Ir, Rh), and
-other ligands (L) directly attached to the metal are listed after the metal
-name. Thus, for example, HZPtMeH.gjf would correspond to the oxidative
-addition complex between methane and a protonated pyridonate platinum complex.
+The naming scheme for Gaussian files is outlined in the summary Excel
+spreadsheet (summary.xlsx). In brief, file names for ground state geometry
+optimizations are of the form PML1[L2].gjf, where P represents the pincer
+ligand (Y = classic NCN pincer, Z = pyridonate ligand, HZ = protonated
+pyridonate ligand), M represents the metal (M = Pt, Ir, Rh), and other ligands
+directly attached to the metal (L1, L2) are listed after the metal name. Thus,
+for example, HZPtMeH.gjf would correspond to the methyl hydride complex
+resulting from oxidative addition between methane and a protonated pyridonate
+platinum complex, which is compound 14’ in the main text. For transition
+states, Gaussian job file names are of the form TS/QST2_reactant_product.gjf .
 
 For convenience, file names for compounds explicitly discussed in the main text are
 given in the table below.
